@@ -1,0 +1,15 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "This is a boilerplate project that can be used as a start point for react projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  }
+}
